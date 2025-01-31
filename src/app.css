@@ -1,0 +1,13 @@
+@import "tailwindcss";
+*{
+    background-image:url("./lib/assets/img/dariusz-sankowski-3OiYMgDKJ6k-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size:cover;
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    color: whitesmoke;
+
+}
